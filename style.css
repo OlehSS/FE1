@@ -33,3 +33,12 @@ p{
     display: flex;
     background-color: darkslategrey;
 }
+
+.bottom{
+    text-align: center;
+}
+
+.smallimg{
+    height: 30px;
+    width: 30px;
+}
